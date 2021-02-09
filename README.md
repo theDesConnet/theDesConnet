@@ -14,5 +14,8 @@
 
 # Ссылки на меня в:
 [VK](https://vk.com/endnet)
+
 [YouTube](https://youtube.com/DesConnet)
+
 Discord: DesConnet#8961
+
