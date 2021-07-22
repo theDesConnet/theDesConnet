@@ -19,3 +19,4 @@
 
 Discord: DesConnet#8961
 
+[!(https://github-readme-stats.vercel.app/api?username=DS1NC-DesConnet)]
