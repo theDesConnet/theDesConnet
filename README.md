@@ -21,4 +21,6 @@ Discord: DesConnet#8961
 
 # Статистика
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DS1NC-DesConnet)
+![Stats](https://github-readme-stats.vercel.app/api?username=DS1NC-DesConnet&count_private=true&hide_title=true&theme=github_dark&locale=ru&&hide_border=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DS1NC-DesConnet&hide_title=true&theme=github_dark&hide_border=true&layout=compact)
+<br>
