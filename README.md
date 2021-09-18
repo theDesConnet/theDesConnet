@@ -20,7 +20,7 @@
 
 [YouTube](https://youtube.com/DesConnet)
 
-Discord: DesConnet#8961
+Discord: DesConnet#6768
 
 # Статистика
 
