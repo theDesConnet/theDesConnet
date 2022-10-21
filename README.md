@@ -17,10 +17,10 @@
 ## Я в...
 [![Вконтакте](https://img.shields.io/badge/Вконтакте-blue?logo=vk)](https://vk.com/endnet)
 [![Ютубе](https://img.shields.io/badge/Ютубе-FF0000?logo=youtube)](https://youtube.com/c/DesConnet)
-![DesConnet#6768](https://img.shields.io/badge/DesConnet%236768-7289DA?logo=discord&logoColor=white)
+![DesConnet#6768](https://img.shields.io/badge/DesConnet%239393-7289DA?logo=discord&logoColor=white)
 
 ## Статистика
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DS1NC-DesConnet&count_private=true&hide_title=true&theme=github_dark&locale=ru&&hide_border=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DS1NC-DesConnet&hide_title=true&theme=github_dark&hide_border=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=theDesConnet&count_private=true&hide_title=true&theme=github_dark&locale=ru&&hide_border=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theDesConnet&hide_title=true&theme=github_dark&hide_border=true&layout=compact)
 <br>
