@@ -19,3 +19,6 @@
 [![theDesConnet](https://img.shields.io/badge/theDesConnet-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1027310755760062545/)
 
 
+
+![](https://hit.yhype.me/github/profile?user_id=31757032)
+
