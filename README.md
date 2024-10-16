@@ -1,6 +1,6 @@
 ## Немного о себе <img src="https://raw.githubusercontent.com/DS1NC-DesConnet/DS1NC-DesConnet/main/assets/shy.gif" width="30">
 Меня зовут Рома (**DesConnet**)
-Мне 18 лет
+Мне 19 лет
 
 Самый обычный человек, которые делает время от времени делает что-то и публикует это на GitHub.
 
