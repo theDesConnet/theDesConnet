@@ -14,7 +14,6 @@
 ![Java](https://img.shields.io/badge/Java-blue?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white)
 
 ## Я в...
-[![Вконтакте](https://img.shields.io/badge/Вконтакте-blue?logo=vk)](https://vk.com/endnet)
 [![Ютубе](https://img.shields.io/badge/Ютубе-FF0000?logo=youtube)](https://youtube.com/c/DesConnet)
 [![theDesConnet](https://img.shields.io/badge/theDesConnet-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1027310755760062545/)
 
