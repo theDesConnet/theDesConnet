@@ -1,23 +1,45 @@
-## Немного о себе <img src="https://raw.githubusercontent.com/DS1NC-DesConnet/DS1NC-DesConnet/main/assets/shy.gif" width="30">
-Меня зовут Рома (**DesConnet**)
-Мне 19 лет
+# 💫 Немного о себе <img src="https://raw.githubusercontent.com/DS1NC-DesConnet/DS1NC-DesConnet/main/assets/shy.gif" width="30">
 
-Самый обычный человек, которые делает время от времени делает что-то и публикует это на GitHub.
+Привет! Меня зовут **Рома (DesConnet)**, мне 19 лет. Я обычный человек, который время от времени пишет код и выкладывает свои проекты на GitHub.
 
-## Чем ты занимаешься?
-Пишу всякую всячину, а так же практикуюсь в кодинге.
+---
 
-## На каких языках программирования ты пишешь?
-![C#](https://img.shields.io/badge/C%23-lime?logo=csharp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-3c873a?logo=node.js&logoColor=white) ![Delphi](https://img.shields.io/badge/Delphi-darkred?logo=delphi&logoColor=white)
+## 🚀 Чем я занимаюсь?
+- 🔹 **Разрабатываю проекты** (иногда полезные, иногда просто для фана)
+- 🔹 **Практикуюсь в программировании** и пробую новые технологии
+---
 
-## Какие хочешь выучить?
-![Java](https://img.shields.io/badge/Java-blue?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white)
+## 🛠️ Навыки и технологии
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-lime?logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Node.js-3c873a?logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Delphi-darkred?logo=delphi&logoColor=white" alt="Delphi">
+  <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white" alt="CSS">
+</div>
 
-## Я в...
-[![Ютубе](https://img.shields.io/badge/Ютубе-FF0000?logo=youtube)](https://youtube.com/c/DesConnet)
-[![theDesConnet](https://img.shields.io/badge/theDesConnet-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1027310755760062545/)
+---
 
+## 🎯 Какие языки хочу выучить?
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-blue?logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white" alt="C++">
+</div>
 
+---
 
-![](https://hit.yhype.me/github/profile?user_id=31757032)
+## 🌍 Где меня найти?
+<div align="center">
+  <a href="https://youtube.com/c/DesConnet">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://discord.com/users/1027310755760062545/">
+    <img src="https://img.shields.io/badge/theDesConnet-7289DA?logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
 
+---
+
+<div align="center">
+  <img src="https://hit.yhype.me/github/profile?user_id=31757032" alt="Profile Views">
+</div>
