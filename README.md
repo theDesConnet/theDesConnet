@@ -1,3 +1,6 @@
+[![wakatime](https://wakatime.com/badge/user/018b1a5f-51c0-4ffe-a119-d095613768bd.svg)](https://wakatime.com/@018b1a5f-51c0-4ffe-a119-d095613768bd)
+---
+
 # 💫 Немного о себе <img src="https://raw.githubusercontent.com/DS1NC-DesConnet/DS1NC-DesConnet/main/assets/shy.gif" width="30">
 
 Привет! Меня зовут **Рома (DesConnet)**, мне 19 лет. Я обычный человек, который время от времени пишет код и выкладывает свои проекты на GitHub.
