@@ -26,7 +26,7 @@
 - <img src="https://api.iconify.design/mdi:code-braces.svg?color=%2394a3b8" width="18" align="center"> Разрабатываю небольшие проекты и pet-проекты  
 - <img src="https://api.iconify.design/mdi:school-outline.svg?color=%2394a3b8" width="18" align="center"> Практикуюсь в программировании  
 - <img src="https://api.iconify.design/mdi:flask-outline.svg?color=%2394a3b8" width="18" align="center"> Изучаю новые технологии  
-- <img src="https://api.iconify.design/mdi:rocket-launch-outline.svg?color=%2394a3b8" width="18" align="center"> Иногда делаю что-то для себя, иногда — чтобы поделиться с другими  
+- <img src="https://api.iconify.design/mdi:rocket-launch-outline.svg?color=%2394a3b8" width="18" align="center"> Иногда делаю что-то для себя, иногда – чтобы поделиться с другими  
 
 ## <img src="https://api.iconify.design/mdi:tools.svg?color=%2394a3b8" width="24" align="center"> Навыки и технологии
 
