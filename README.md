@@ -87,9 +87,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=theDesConnet&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats">
+<img height="165" src="https://stat-github.dinacostudio.ru/api?username=theDesConnet&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theDesConnet&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages">
+<img height="165" src="https://stat-github.dinacostudio.ru/api/top-langs/?username=theDesConnet&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages">
 
 </div>
 
