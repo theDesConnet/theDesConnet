@@ -115,10 +115,6 @@
 
 ### Спасибо, что заглянул на мой профиль
 
-<div align="center">
-  <img src="https://hit.yhype.me/github/profile?user_id=31757032" alt="Profile Views">
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer" alt="footer">
 
 </div>
