@@ -14,23 +14,27 @@
 
 </div>
 
-## <img src="https://api.iconify.design/mdi:information-outline.svg?color=%2394a3b8" width="24" align="center"> Немного обо мне
+## <img src="https://api.iconify.design/mdi/information-outline.svg?color=%2394a3b8" width="20" align="absmiddle"> Немного обо мне
 
 Привет! Меня зовут **Роман**, мне **20 лет**.  
 Я обычный человек, который иногда пишет код, экспериментирует с технологиями и выкладывает свои проекты на GitHub.
 
 Люблю делать разные штуки: иногда полезные, иногда странные, иногда просто ради фана.
 
-## <img src="https://api.iconify.design/mdi:code-tags.svg?color=%2394a3b8" width="24" align="center"> Чем я занимаюсь
+## <img src="https://api.iconify.design/mdi/code-tags.svg?color=%2394a3b8" width="20" align="absmiddle"> Чем я занимаюсь
 
-- <img src="https://api.iconify.design/mdi:code-braces.svg?color=%2394a3b8" width="18" align="center"> Разрабатываю небольшие проекты и pet-проекты  
-- <img src="https://api.iconify.design/mdi:school-outline.svg?color=%2394a3b8" width="18" align="center"> Практикуюсь в программировании  
-- <img src="https://api.iconify.design/mdi:flask-outline.svg?color=%2394a3b8" width="18" align="center"> Изучаю новые технологии  
-- <img src="https://api.iconify.design/mdi:rocket-launch-outline.svg?color=%2394a3b8" width="18" align="center"> Иногда делаю что-то для себя, иногда – чтобы поделиться с другими  
+<div>
 
-## <img src="https://api.iconify.design/mdi:tools.svg?color=%2394a3b8" width="24" align="center"> Навыки и технологии
+<img src="https://api.iconify.design/mdi/code-braces.svg?color=%2394a3b8" width="16" align="absmiddle"> Разрабатываю небольшие проекты и pet-проекты<br>
+<img src="https://api.iconify.design/mdi/school-outline.svg?color=%2394a3b8" width="16" align="absmiddle"> Практикуюсь в программировании<br>
+<img src="https://api.iconify.design/mdi/flask-outline.svg?color=%2394a3b8" width="16" align="absmiddle"> Изучаю новые технологии<br>
+<img src="https://api.iconify.design/mdi/rocket-launch-outline.svg?color=%2394a3b8" width="16" align="absmiddle"> Иногда делаю что-то для себя, иногда – чтобы поделиться с другими
 
-### <img src="https://api.iconify.design/mdi:language-html5.svg?color=%2394a3b8" width="20" align="center"> Frontend
+</div>
+
+## <img src="https://api.iconify.design/mdi/tools.svg?color=%2394a3b8" width="20" align="absmiddle"> Навыки и технологии
+
+### <img src="https://api.iconify.design/mdi/language-html5.svg?color=%2394a3b8" width="18" align="absmiddle"> Frontend
 
 <div align="center">
 
@@ -42,7 +46,7 @@
 
 </div>
 
-### <img src="https://api.iconify.design/mdi:server.svg?color=%2394a3b8" width="20" align="center"> Backend
+### <img src="https://api.iconify.design/mdi/server.svg?color=%2394a3b8" width="18" align="absmiddle"> Backend
 
 <div align="center">
 
@@ -52,7 +56,7 @@
 
 </div>
 
-### <img src="https://api.iconify.design/mdi:code-braces.svg?color=%2394a3b8" width="20" align="center"> Языки программирования
+### <img src="https://api.iconify.design/mdi/code-braces.svg?color=%2394a3b8" width="18" align="absmiddle"> Языки программирования
 
 <div align="center">
 
@@ -64,7 +68,7 @@
 
 </div>
 
-### <img src="https://api.iconify.design/mdi:desktop-classic.svg?color=%2394a3b8" width="20" align="center"> Cross-platform / Desktop / Mobile
+### <img src="https://api.iconify.design/mdi/desktop-classic.svg?color=%2394a3b8" width="18" align="absmiddle"> Cross-platform / Desktop / Mobile
 
 <div align="center">
 
@@ -74,7 +78,7 @@
 
 </div>
 
-### <img src="https://api.iconify.design/mdi:cube-outline.svg?color=%2394a3b8" width="20" align="center"> DevOps / Infrastructure
+### <img src="https://api.iconify.design/mdi/cube-outline.svg?color=%2394a3b8" width="18" align="absmiddle"> DevOps / Infrastructure
 
 <div align="center">
 
@@ -83,17 +87,17 @@
 
 </div>
 
-## <img src="https://api.iconify.design/mdi:chart-box-outline.svg?color=%2394a3b8" width="24" align="center"> GitHub статистика
+## <img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=%2394a3b8" width="20" align="absmiddle"> GitHub статистика
 
 <div align="center">
 
-<img height="165" src="https://stat-github.dinacostudio.ru/api?username=theDesConnet&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats">
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=theDesConnet&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats">
 
-<img height="165" src="https://stat-github.dinacostudio.ru/api/top-langs/?username=theDesConnet&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages">
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=theDesConnet&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages">
 
 </div>
 
-## <img src="https://api.iconify.design/mdi:account-box-outline.svg?color=%2394a3b8" width="24" align="center"> Где меня найти
+## <img src="https://api.iconify.design/mdi/account-box-outline.svg?color=%2394a3b8" width="20" align="absmiddle"> Где меня найти
 
 <div align="center">
 
@@ -118,6 +122,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer" alt="footer">
 
 </div>
-
-
-
